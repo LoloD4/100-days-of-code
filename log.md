@@ -14,8 +14,15 @@
 
 **Thoughts:** Re-learned and learned some styling in CSS. I am happy I decided to revist the front-end fundamentals. I look forward to getting into Javascript and working on a project, tho. However, so far so good. Can't wait to get out the basics.
 
-### Day 3: Wend August 22, 2018
+### Day 3: Wed August 22, 2018
 
 **Today's Progress**: Completed Basic CSS
 
 **Thoughts:** I learned more about CSS from FCC than I did from Intro to Web Design in college. Nevertheless, the curriculum is starting to get more challenging which is great.  
+
+
+### Day 4: Thurs August 23, 2018
+
+**Today's Progress**: Intro to Visual Design
+
+**Thoughts:** Simple stuff so far. Im sure it will become more challenging as I move along. 
