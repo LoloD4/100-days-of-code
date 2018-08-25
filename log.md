@@ -26,3 +26,10 @@
 **Today's Progress**: Intro to Visual Design
 
 **Thoughts:** Simple stuff so far. Im sure it will become more challenging as I move along. 
+
+
+### Day 5: Fri August 24, 2018
+
+**Today's Progress**: Positioning Elements, Anchor Tags, & Css Offsets
+
+**Thoughts:** So today was enlightening. I only did about 12 lessons on FreeCodeCamp but I got a better understanding of Positioning Elements, Anchor Tags & ect in Visual Design. I've always manipulated these elements before, but never really knew at the core what their function was & how it really worked. I kinda always just played round and interchanged options until something functioned in a somewhat desireable manner! lol...Feels good to have a real understanding. 
