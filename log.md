@@ -43,8 +43,7 @@
 
 ### Day 7: Sun August 26, 2018
 
-**Today's Progress**:
+**Today's Progress**: CSS Animation, Keyframes & the Bezier Curve
 
-**Thoughts:**  
-
+**Thoughts:** Okay, I've finally gotten to the fun stuff! With FreeCodeCamps code I completed the script to loop a heart using Infinite animation. The animation reminded me of various ios apps, which was pretty cool. Keyframes challenaged me a bit. It's quite a lot to remember, but then there is always Google. Learned what the Bezier Curve is. Three Bezier lessons left in Applied Visual Design. 
 
