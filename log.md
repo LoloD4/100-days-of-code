@@ -53,3 +53,8 @@
 **Today's Progress**: Bezier Curves (Cont), Applied Accessibility
 
 **Thoughts:** Up to this point everything as been simple. Understanding Bezier Curves is a bit difficult. I tried to watch a Youtube video but im still not completely obsorbing the information. I definietly think I'll have to watch a few more or hopefully i'll learn more as I move along. Moved on to Applied Accessibility. 
+
+### Day 9: Tue August 28, 2018
+
+**Today's Progress**: Worked Midway through Applied Visual Design. 
+
