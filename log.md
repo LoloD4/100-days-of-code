@@ -65,3 +65,9 @@
 
 **Thoughts:** I feel like my thoughts on progress will be fairly short until I get to my first project on FreeCodeCamp. I will say the curriculum has gotten to be more challenging. The questions they ask us to solve seem to be in a trick format. Either we already know, we are highly intuitive or we have to search for the answer. Sooo...I've had to search for the answer to the last few sections. At first I felt like "oh crap, maybe im not cut out to do this". Im still a bit weary. Im not sure im retaining some of this information. I think I will find out the answer to my questions once I start on projects. 
 
+
+### Day 11: Thur August 30, 2018
+
+**Today's Progress**: CSS Flexbox 
+
+**Thoughts:** Worked halfway through CSS Flexbox on CodeCamp. My progress seems to be dragging due to my energy levels. I look forward to getting proper sleep this extended weekend. Flexbox is straight foward, im getting it so far, not complicated and retaining information pretty well. 
