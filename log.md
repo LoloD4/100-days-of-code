@@ -71,3 +71,8 @@
 **Today's Progress**: CSS Flexbox 
 
 **Thoughts:** Worked halfway through CSS Flexbox on CodeCamp. My progress seems to be dragging due to my energy levels. I look forward to getting proper sleep this extended weekend. Flexbox is straight foward, im getting it so far, not complicated and retaining information pretty well. 
+
+
+### Day 12: Fri August 31, 2018
+
+**Today's Progress**: Finished CSS Flexbox, onto CSS Grid Challenges
