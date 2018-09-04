@@ -79,11 +79,20 @@
 
 **Thoughts:** Worked halfway through CSS Flexbox on CodeCamp. My progress seems to be dragging due to my energy levels. I look forward to getting proper sleep this extended weekend. Flexbox is straight foward, im getting it so far, not complicated and retaining information pretty well. 
 
+
 ### Day 13: Sat Sept 1, 2018
 
 **Today's Progress**: Finished CSS Grid 
 
+
 ### Day 14: Sun Sept 2, 2018
 
 **Today's Progress**: Worked on Portfolio Website.
+
+
+### Day 15: Mon Sept 3, 2018
+
+**Today's Progress**: Started building a Tribute Page 
+
+ 
  
