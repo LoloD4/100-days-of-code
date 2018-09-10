@@ -94,5 +94,20 @@
 
 **Today's Progress**: Started building a Tribute Page 
 
+### Day 16: Tues Sept 4, 2018
+
+**Today's Progress**: Used CSS, switched to Bootstrap, learning fundamentals
+
+**Thoughts:** Peeked at code examples and noticed a majority of people were using Bootstrap to make their pages responsive. So I paused on building my tribute page to learn bootstrap.
+
+### Day 17: Wed Sept 5, 2018
+
+**Today's Progress**: Bootstrap & More BootStrap
+
+### Day 18: Sat Sept 8, 2018
+
+**Today's Progress**: Worked thru a few Bootstrap exercises on FreeCodeCamp 
+
+
  
  
