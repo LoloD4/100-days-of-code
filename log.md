@@ -108,6 +108,12 @@
 
 **Today's Progress**: Worked thru a few Bootstrap exercises on FreeCodeCamp 
 
+### Day 19: Sat Sept 15, 2018
+
+**Today's Progress**: WebFlow, HTML & CSS on Codepen
+
+**Thoughts:** It's been a week since I've coded or studied code. I heard about Webflow and took a few hrs to study the program...but no code invloved. Started a HTML & CSS cheatsheet on Codepen. Coding from memory to see how much information I've retained....so far, its not looking like much. I feel my coding journey is going to take 200days to to even scratch the surface, but im not in a rush. 
+
 
  
  
