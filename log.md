@@ -114,6 +114,8 @@
 
 **Thoughts:** It's been a week since I've coded or studied code. I heard about Webflow and took a few hrs to study the program...but no code invloved. Started a HTML & CSS cheatsheet on Codepen. Coding from memory to see how much information I've retained....so far, its not looking like much. I feel my coding journey is going to take 200days to to even scratch the surface, but im not in a rush. 
 
+### Day 20: Tues Sept 25, 2018
 
- 
- 
+**Today's Progress**: Tribute Page Codepen
+
+**Thoughts:** To help the process I created a mockup in photoshop then used Basic HTML, CSS & Bootstrap to arrange the elements in attempt to make it responsive. Added background, Header Images, Nav Bar & Bio. So far all responsive but Im going to try to recreate the Bio Header with Google Fonts instead of using an img. 
