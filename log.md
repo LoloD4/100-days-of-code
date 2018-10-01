@@ -15,4 +15,4 @@
 
 
 <!-- **Link to work:**-->
-<a href="https://codepen.io/lolitadefoe/pen/BOdZwN"> <target="_blank"> View Lois Mailou Tribute Page on Codepen</a>
+<a href="https://codepen.io/lolitadefoe/pen/BOdZwN" "target="_blank"> View Lois Mailou Tribute Page on Codepen</a>
