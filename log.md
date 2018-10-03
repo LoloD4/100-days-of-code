@@ -16,3 +16,19 @@
 
 <!-- **Link to work:**-->
 <a href="https://codepen.io/lolitadefoe/pen/BOdZwN"> View Lois Mailou Tribute Page on Codepen</a>
+
+### Day 2: Mon Oct 1st, 2018
+
+**Today's Progress**: FCC Survey Form
+
+**Thoughts** Started working on the survey form using Html, Css & Bootstrap. Curious on how I can get sumbitted responses 
+from this survey. 
+
+
+### Day 3: Tues Oct 2nd, 2018
+
+**Today's Progress**: FCC Survey Form Day 2
+cha
+** Thoughts** Still building form, Im starting to memorize more code as I build. Working on styling. I wanted to collect real data with this survey but that may be more complicated than I thought at this point in my journey.
+
+<a href="https://codepen.io/lolitadefoe/pen/LgVJer?editors=1100"> View Survey</a>
