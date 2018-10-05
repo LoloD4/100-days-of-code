@@ -43,4 +43,11 @@ from this survey.
 
 **Today's Progress**: FCC JavaScript: Add, Multiply, Subtract and Divide
 
-**Thoughts**: The big bad java monster was a lot less scary today lol . I think Im starting to understand
+**Thoughts**: The big bad java monster was a lot less scary today lol . I think Im starting to understand.
+
+### Day 6: Fri Oct 5, 2018
+
+**Today's Progress**: FCC Basic JavaScript: Assignments with Augumented Components, Concatenating Strings 
+
+**Thoughts**: 2.5 hours of code today. Im feeling far more comfortable with java moving through these lessons. Just really takes some concentration and thinking outside of the norm. 
+
