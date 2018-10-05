@@ -17,7 +17,7 @@
 <!-- **Link to work:**-->
 <a href="https://codepen.io/lolitadefoe/pen/BOdZwN"> View Lois Mailou Tribute Page on Codepen</a>
 
-### Day 2: Mon Oct 1st, 2018
+### Day 2: Mon Oct 1, 2018
 
 **Today's Progress**: FCC Survey Form
 
@@ -25,10 +25,22 @@
 from this survey. 
 
 
-### Day 3: Tues Oct 2nd, 2018
+### Day 3: Tues Oct 2, 2018
 
 **Today's Progress**: FCC Survey Form Day 2
-cha
-** Thoughts** Still building form, Im starting to memorize more code as I build. Working on styling. I wanted to collect real data with this survey but that may be more complicated than I thought at this point in my journey.
+
+**Thoughts** Still building form, Im starting to memorize more code as I build. Working on styling. I wanted to collect real data with this survey but that may be more complicated than I thought at this point in my journey.
 
 <a href="https://codepen.io/lolitadefoe/pen/LgVJer?editors=1100"> View Survey</a>
+
+### Day 4: Wed Oct 3, 2018
+
+**Today's Progress**: FCC JavaScript
+
+**Thoughts**: Java is not making sense to me at this point. Reading and writing math backwards lol...It's different than I thought. But I'm going to keep going, and hopefully it will get better easier to comprehend. 
+
+### Day 5: Thurs Oct 4, 2018
+
+**Today's Progress**: FCC JavaScript: Add, Multiply, Subtract and Divide
+
+**Thoughts**: The big bad java monster was a lot less scary today lol . I think Im starting to understand
