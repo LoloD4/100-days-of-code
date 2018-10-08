@@ -64,3 +64,9 @@ from this survey.
 **Today's Progress**: Back to Bootstrap
 
 **Thoughts**: Didnt finish all of the Bootstrap exercises in FCC. Went back & worked on a few of them. 
+
+### Day 9: Mon Oct 8, 2018
+
+**Today's Progress**: Finished Bootstrap, on to JQuery
+
+**Thoughts**: Not sure why Javascript basics is before front end libraries on FCC. Put a pause on Java to finsih all front end libraries. Finshed Bootstrap, onto JQuery! 
