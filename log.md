@@ -51,3 +51,16 @@ from this survey.
 
 **Thoughts**: 2.5 hours of code today. Im feeling far more comfortable with java moving through these lessons. Just really takes some concentration and thinking outside of the norm. 
 
+### Day 7: Sat Oct 6, 2018
+
+**Today's Progress**: Java & More Java, Completed Survey Page
+
+**Thoughts**: Worked Thru more Java lessons on FCC. Finished Survey Page. Although the survey page passed I still need to work out a few things. I'll probably go back and revamp as I learn more. 
+
+<a href="https://codepen.io/lolitadefoe/pen/LgVJer">View Survey</a>
+
+### Day 8: Sun Oct 7, 2018
+
+**Today's Progress**: Back to Bootstrap
+
+**Thoughts**: Didnt finish all of the Bootstrap exercises in FCC. Went back & worked on a few of them. 
