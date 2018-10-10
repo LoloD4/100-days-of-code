@@ -70,3 +70,10 @@ from this survey.
 **Today's Progress**: Finished Bootstrap, on to JQuery
 
 **Thoughts**: Not sure why Javascript basics is before front end libraries on FCC. Put a pause on Java to finsih all front end libraries. Finshed Bootstrap, onto JQuery! 
+
+
+### Day 10: Tues Oct 9, 2018
+
+**Today's Progress**: Finished JQuery
+
+**Thoughts**: I really enjoyed JQuery! The lessons were fairly short on freecodecamp so I am assuming that Jquery is not often used? Im not sure, either way the lessons were fun. Looking forward to SASS!
