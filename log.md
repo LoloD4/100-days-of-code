@@ -77,3 +77,9 @@ from this survey.
 **Today's Progress**: Finished JQuery
 
 **Thoughts**: I really enjoyed JQuery! The lessons were fairly short on freecodecamp so I am assuming that Jquery is not often used? Im not sure, either way the lessons were fun. Looking forward to SASS!
+
+### Day 11: Wed Oct 10, 2018
+
+**Today's Progress**: Information & some SASS
+
+**Thoughts**: NOt much coding today. Signed up with TheOdinProject to get a better understanding of Github. I also think I'll start with curriculums on there because its a bit more infomative than FreeCodeCamp. I did tho, take some time today and work thru a few lessons on SASS in FCC. 
