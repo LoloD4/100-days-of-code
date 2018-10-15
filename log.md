@@ -82,4 +82,23 @@ from this survey.
 
 **Today's Progress**: Information & some SASS
 
-**Thoughts**: NOt much coding today. Signed up with TheOdinProject to get a better understanding of Github. I also think I'll start with curriculums on there because its a bit more infomative than FreeCodeCamp. I did tho, take some time today and work thru a few lessons on SASS in FCC. 
+**Thoughts**: Not much coding today. Signed up with TheOdinProject to get a better understanding of Github. I also think I'll start with curriculums on there because its a bit more infomative than FreeCodeCamp. I did tho, take some time today and work thru a few lessons on SASS in FCC. 
+
+### Day 12: Thurs Oct 11, 2018
+
+**Today's Progress**: Product Page
+
+**Thoughts**: Started working on Product Page in CodePen
+
+### Day 13: Fri Oct 12, 2018
+
+**Today's Progress**: Product Page 
+
+**Thoughts**: Referenced alot from W3schools. Playing with different lines of code. Felt like I wasted a lot of time but I learned a few things.  
+
+
+### Day 14: Sat Oct 13, 2018
+
+**Today's Progress**: Product Page 
+
+**Thoughts**: Cleared code a few times. I think I tried to rush the process instead of planning out the page. Stepping back to be more intentional with the product page. 
