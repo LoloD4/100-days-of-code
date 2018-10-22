@@ -104,8 +104,15 @@ from this survey.
 **Thoughts**: Cleared code a few times. I think I tried to rush the process instead of planning out the page. Stepping back to be more intentional with the product page. 
 
 
-### Day 15,16,17,18,19,20,21: Sun Oct 14-21
+### Day 15,16,17,18,19,20: Oct 14-20
 
-**Today's Progress**: an hour a day...but not much to say.
+**Today's Progress**: missed a day, and an hour a day thereafter...but not much to say.
 
-**Thoughts**: So day by day I've coded for an hour trying to figure out how to properly align my nav bar amoungst other things. Im pretty fed up. I've used bootstrap, HTML & CSS. I think im hung up because I have an idea and I want to execute it how I see it in my head but even when I do find the script I believe will work...IT DOESN'T. I havent resorted to a forum to help...which I probably should have done that as soon as I started to have difficulty. I've gotten more frustrated and less motivated day by day. Hoping to start off next week on a better foot and get this done, for the sake of staying positive.  
+**Thoughts**: So day by day I've coded for an hour trying to figure out how to properly align my nav bar amoungst other things. Im pretty fed up. I've used bootstrap, HTML & CSS. I think im hung up because I have an idea and I want to execute it how I see it in my head but even when I do find the script I believe will work...IT DOESN'T. I havent resorted to a forum to help...which I probably should have done that as soon as I started to have difficulty. I've gotten more frustrated and less motivated day by day. Hoping to start off next week on a better foot and get this done, for the sake of staying positive. 
+
+### Day 21: Sun Oct 21, 2018
+
+**Today's Progress**: Learning about the Terminal 
+
+**Thoughts**: Via the Odin Project & Viking Code School learned how to use terminal, access man pages and navigate around directories.
+
