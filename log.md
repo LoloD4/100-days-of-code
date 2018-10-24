@@ -122,7 +122,7 @@ from this survey.
 
 **Thoughts**: More learning and playing with the Command Line, scary...the fear of potentially destroying my computer. lol...Like do I trust myself that much? Still cool stuff...im very intrigued. I feel like a baby hacker...soom i'll join Annoymous...(kidding kidding) 
 
-### Day 22: Tue Oct 23, 2018
+### Day 23: Tue Oct 23, 2018
 
 **Today's Progress**: The Forbidden One : Dreamweaver
 
