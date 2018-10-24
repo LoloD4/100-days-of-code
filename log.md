@@ -116,3 +116,14 @@ from this survey.
 
 **Thoughts**: Via the Odin Project & Viking Code School learned how to use terminal, access man pages and navigate around directories.
 
+### Day 22: Mon Oct 22, 2018
+
+**Today's Progress**: Command Line 
+
+**Thoughts**: More learning and playing with the Command Line, scary...the fear of potentially destroying my computer. lol...Like do I trust myself that much? Still cool stuff...im very intrigued. I feel like a baby hacker...soom i'll join Annoymous...(kidding kidding) 
+
+### Day 22: Tue Oct 23, 2018
+
+**Today's Progress**: The Forbidden One : Dreamweaver
+
+**Thoughts**: Today I decided to blow the dust off of Dreamweaver & give it a go. Why? I really don't know. I noticed it has not made one mention in any of the articles I've read about learning to code. I was curious & this is what I've found. Dream weaver makes things hella easy....and hard all at the same time. I opened up a Bootstrap template and noticed a string of stylesheets attached. Css, Java, Python and a few more. Since im not fully informed of how all of these work. I wasnt sure if they were necessary...but hey what do I know? The template also had a note to not change the font....THE FONT? ( scratches head ) I thought templates were meant to be changed? Honestly the template looked simple. No animation. Nothing fancy...I started to add and remove things to see how things work/shift. In the end I think I need to learn a bit more to really judge dreamweaver. Ol faithful seem to have alot going on. Which I have no clue if its a good or bad thing. 
